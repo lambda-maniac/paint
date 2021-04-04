@@ -1,3 +1,5 @@
+from paint import cprint
+
 #Black Background and red text.
 #Syntax: [color], a "-" before the color name would make it colorize the background.
 cprint("[-black][red]Warning!")
